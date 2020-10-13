@@ -19,7 +19,6 @@ def magic_square(n):
     count = 1
     num = n*n
 
-    hisdhff
 
     while count <= num:
         if count == 1:
