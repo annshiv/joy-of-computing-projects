@@ -18,4 +18,5 @@ I am doing joy of computing course in NPTEL in 2020. This course contain many py
       a magic square if the sums of the numbers in each row, each column, and both main diagonals are the same.
       The integer n (where n is the number of integers on a side) is the order of the magic square and the constant 
       sum is called the magic constant. If the array includes just the positive integers , the magic square is said to
-      be normal.Some authors take magic square to mean normal magic square.
+      be normal.Some authors take magic square to mean normal magic square. this project is give 
+      a square of n column and n row
