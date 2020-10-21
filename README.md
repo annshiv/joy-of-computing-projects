@@ -5,7 +5,7 @@ I am doing joy of computing course in NPTEL in 2020. This course contain many py
 
         - INRODUCTION TO PYTHON
       
-**Week 3**
+**Week 4**
 
    <h6>Birthday paradox</h6>
       
