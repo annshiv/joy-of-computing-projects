@@ -5,7 +5,7 @@ I am doing joy of computing course in NPTEL in 2020. This course contain many py
 
         - INRODUCTION TO PYTHON
       
-**Week 3**
+**Week 4**
 
    <h6>Birthday paradox</h6>
       
@@ -20,3 +20,19 @@ I am doing joy of computing course in NPTEL in 2020. This course contain many py
       sum is called the magic constant. If the array includes just the positive integers , the magic square is said to
       be normal.Some authors take magic square to mean normal magic square. this project is give 
       a square of n column and n row
+
+**Week 5**
+
+   <h6>Monte Hall</h6>
+      
+      - find a chocolate in three various bag. Player 1 & player 2 have two chances to find a cholate.
+      if first chance is completed . ask "are you want to change your option" if you say "yes" you will choose
+      another one , On this point you found that chocolate you are the winner. else you are the "Loser".
+   
+   <h6> Rock , Paper, Scissor </h6>
+   
+      - A simultaneous, zero-sum game, it has only two possible outcomes: a draw, or a win for one player
+      and a loss for the other. A player who decides to play rock will beat another player who has chosen 
+      scissors ("rock crushes scissors" or sometimes "blunts scissors"[3]), but will lose to 
+      one who has played paper ("paper covers rock"); a play of paper will lose to a
+      play of scissors ("scissors cuts paper"). If both players choose the same shape, the game is tied 
