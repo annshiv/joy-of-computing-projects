@@ -1,11 +1,6 @@
-from PIL import Image
 import random
 
 end = 100
-
-def show():
-    img = Image.open("snakesladders-nationalseriesgames.jpg")
-    img.show()
 
 def checkladder(point):
     if point == 8:
@@ -79,6 +74,12 @@ def check_snake(point):
     else:
         # no snake
         return point
+
+def reached_end(point):
+    if point == end:
+        return True
+    else:
+        return False
 def play():
 
     #input player 1 name
@@ -101,14 +102,14 @@ def play():
             print(ply_1," your turn") 
 
             # ask player choice to continue
-            c = int(input("Press 1 for continue ,0 for quit"))
+            c = int(input("Press 1 for continue ,0 for quit "))
             if c == 0:
                 print(ply_1," scored ",pp1)
                 print(ply_2," scored ",pp2)
                 print('Quiting the game, Thanks for playing ')
                 break
             dice = random.randint(1,6) 
-            print('Dice showed 'dice)
+            print('Dice showed ',dice)
 
             pp1 += dice
             pp1 = checkladder(pp1)
@@ -129,14 +130,14 @@ def play():
             print(ply_2," your turn") 
 
             # ask player choice to continue
-            c = int(input("Press 1 for continue ,0 for quit"))
+            c = int(input("Press 1 for continue ,0 for quit "))
             if c == 0:
                 print(ply_1," scored ",pp1)
                 print(ply_2," scored ",pp2)
                 print('Quiting the game, Thanks for playing ')
                 break
             dice = random.randint(1,6) 
-            print('Dice showed 'dice)
+            print('Dice showed ',dice)
 
             pp2 += dice
             pp2 = checkladder(pp2)
@@ -153,3 +154,4 @@ def play():
                 print(ply_2, ' Won')
                 break
         turn += 1
+play()
