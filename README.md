@@ -40,3 +40,7 @@ I am doing joy of computing course in NPTEL in 2020. This course contain many py
 **Week 6**
 
         - Tic Tak Toe game project
+
+**Week 7**
+
+        - Snake & Ladder
