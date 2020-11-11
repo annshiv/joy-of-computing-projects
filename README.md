@@ -44,3 +44,10 @@ I am doing joy of computing course in NPTEL in 2020. This course contain many py
 **Week 7**
 
         - Snake & Ladder
+
+**Week 8**
+
+        - Fliping the image
+        - Enhancing the image
+        - Lottery simulation
+        
