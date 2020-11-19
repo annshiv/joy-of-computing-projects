@@ -51,3 +51,8 @@ I am doing joy of computing course in NPTEL in 2020. This course contain many py
         - Enhancing the image
         - Lottery simulation
         
+**Week 9**
+
+   <h6> - Natural language processing </h6>   
+   <h6> - Six degree of separation(Meet your favorite) </h6>
+   <h6> - Area calculation </h6>
