@@ -56,3 +56,9 @@ I am doing joy of computing course in NPTEL in 2020. This course contain many py
         - Natural language processing 
         - Six degree of separation(Meet your favorite)
         - Area calculation
+
+**Week 10**
+
+        - Image compression(lossy compression)
+        - FLAMES
+        
