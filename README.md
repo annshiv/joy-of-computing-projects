@@ -62,3 +62,7 @@ I am doing joy of computing course in NPTEL in 2020. This course contain many py
         - Image compression(lossy compression)
         - FLAMES
         
+**Week 11**
+
+        - Whatsapp browser automation
+        - Find day of the date
