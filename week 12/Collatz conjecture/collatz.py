@@ -7,7 +7,7 @@ def collatz(n):
         else:
             n = (n * 3) + 1
             count += 1
-    return n,count
+    return count
 
 n = int(input())
 print(collatz(n))
